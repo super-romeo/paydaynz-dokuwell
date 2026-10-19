@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paydaynz.dokuwell.com/sitemap.xml
